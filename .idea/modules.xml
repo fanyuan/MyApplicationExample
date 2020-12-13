@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationExample.iml" filepath="$PROJECT_DIR$/MyApplicationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appdemo/appdemo.iml" filepath="$PROJECT_DIR$/appdemo/appdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appdemo2/appdemo2.iml" filepath="$PROJECT_DIR$/appdemo2/appdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyApplicationExampleLib2/myextlib2/myextlib2.iml" filepath="$PROJECT_DIR$/../MyApplicationExampleLib2/myextlib2/myextlib2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyApplicationExampleLib/myextlibrary/myextlibrary.iml" filepath="$PROJECT_DIR$/../MyApplicationExampleLib/myextlibrary/myextlibrary.iml" />
+    </modules>
+  </component>
+</project>

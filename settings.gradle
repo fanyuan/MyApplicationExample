@@ -1,0 +1,3 @@
+include ':app', ':appdemo', ':appdemo2', ':common','myextlibrary','myextlib2'
+project(':myextlibrary').projectDir = new File('../MyApplicationExampleLib/myextlibrary')
+project(':myextlib2').projectDir = new File('../MyApplicationExampleLib2/myextlib2')
